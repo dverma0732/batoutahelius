@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Repository: Docs / Pages
 
-You can use the [editor on GitHub](https://github.com/dverma0732/baotutahelius/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+As educated youth well-versed with social media, we feel a certain responsibility to speak our truth. Not doing so might make us isolated and closed. Stressful experiences might exacerbate that and later when we do share things, they might come out quite different from what we imagined. Because of a mixture of pent-up feelings and time and awareness, we change our narratives. Let's make sure it changes for the betterment of us and the society.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A little bit about myself: I’m a MechE and Robotics & Automation engineer. Computers and logic have been a passion for me since I was a kid. I have some experience in coding in MATLAB, C++, Python, SolidWorks, PTC Creo etc. My field of study has been majorly inter-disciplinary from core mechanical subjects, Fanuc CNC coding, industrial engineering (favourite subject=Operations Research!), computational maths, physics, soft computing, etc. To make up for core computer science subject requirements like DS, DBMS, I've tried to learn through various means (read: memes mostly. Not always though). I have co-authored 2 research papers and 2 review papers with Springer and IEEE Xplore.
 
-### Markdown
+After a difficult 1st year at Bachelor's, I had the opportunity to change my branch to IT on the basis of 1st year's percentage but I didn't go ahead with it due to various reasons. One of the reasons was to be updated with CS alongside a degree in Mech, since engineering is application of concepts regardless of domain.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We from the MAE Department collaborated to get a paper published on the topic of smart robotic wheelchair in the 3rd year of Bachelor's but it was shelved since the application part wasn't strong enough.
 
-```markdown
-Syntax highlighted code block
+Corporate exposure was a dilemma for me. I got selected for a 6 week CS internship opportunity at a motors company in my 3rd year but most of the selected from the class decided not to pursue the internship due to time and location constraints. I interned at a government national laboratory as a research associate instead. Placements were a funny time for me. Our college has a rule of one offer per person so choosing the company mattered. I cleared the written rounds (didn't sit for HUL, Maruti, Eaton) but found it a challenge to clear the interview rounds. I did get placed in a non-technical role at a Big Five Tech company. It was not the profile for me but the company was a good fit in the technical CS side. After that, I focussed on Master's admissions and services examinations for the rest of the year.
 
-# Header 1
-## Header 2
-### Header 3
+I got admits from my own University and another state Uni and chose to go ahead with Master's instead of the job offer at Hyderabad. I chose the second Uni due to single rooms in their hostels haha, perfect for studies :P
+The course proceeded to be an upheaval of new subjects, old subjects, surroundings and emotions of sorts.
 
-- Bulleted
-- List
+My Master's thesis is an example for that. Being from a Mechanical Engineering background, Robotics is an interdisciplinary domain where lost core engineering kids go to redeem themselves, or so they think. I was the odd one in electing Soft Computing as my research field. My mentor suggested me to read about Genetic Algorithms and Image Denoising for the 1st year term papers. After some pretty bad term papers, I conceptualized the problem to be image denoising based on Genetic Algorithms. There are easier ways to denoise images, but this method has also been researched & theoretically presented by professors. We coded the problem into MATLAB, ran simulations on a MATLAB directory image and denoising was achieved in terms of PSNR values. These values were plotted as per Genetic Algorithm functions (selection, crossover, scaling, mutation etc) and generated statistical graphs. I got okay marks for the thesis (80/100). This culmination was presented & published as a chapter in the AISC series of Springer Nature. 
+When the publication went online on 31st Oct 2019, I updated my LinkedIn bio after 4 years with the link. This has prompted various reactions since that time. Some colleagues pranked me for it through e-mails. Some colleagues took it as a hackathon challenge, lol no chill. When I asked some colleagues about these issues, they suggested me to remove the link and if I had put up that link there to 'show-off'. I put up those words i.e. the link there because I have had a hard time filling Bio's. Maybe it is because I'm a Math student that Bio perplexes me. A 'conceptually turbulent' 2 years of Master's conceptualized into a known pixel noise problem and solved with an evolutionary algorithm. People's opinions about a person's public platform taken out personally is a social problem in itself, and past years have taught me I'm not so good with social studies, so not explaining these things then seemed like the right thing to me. Being not exactly okay with my Bachelor's major Mechanical and Automation, shifting towards Computer Science through the research paper was the start I wanted; the inter-disciplinary nature was only an add-on. It was a sign of hope to lost kids like me that even though you may take the wrong path (and you know it's wrong. Knowing is very subjective. Some people know as soon as they're in it while some know after 5-10 years), you will still find your way (or, you will find an excuse).
 
-1. Numbered
-2. List
+Here’s to dreams and codes. 🤓
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dverma0732/baotutahelius/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Be safe, stay home and go get your dreams. 💞 15 November 2020, 8 am
